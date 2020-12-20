@@ -28,3 +28,4 @@
 
 - Deep learning can be used for generic models that are **not engineered** for solving a specific task, but instead can be automatically adapted to specialize themselves on the problem at hand.
 - Optimizers use the autograd feature of PyTorch to compute the gradient for each parameter, depending on how that parameter contributes to the final output.
+- Context managers like `with torch.no_grad():` can be used to control autograd's behavior.
