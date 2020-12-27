@@ -2,3 +2,4 @@
 apple2orange/
 *.zip
 .venv/
+data-unversioned/
