@@ -1,5 +1,4 @@
 # Learning Deep Learning, Cloud
-Memo of the following books:
 Finished:
 - Deep Learning (2016, Ian Goodfellow, Yoshua Bengio, Aaron Courville).
 - GANs in Action (2019, Jakub Langr, Vladimir Bok).
